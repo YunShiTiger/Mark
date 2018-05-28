@@ -1,0 +1,4 @@
+2018-05-13-10:02:34	ERROR	{'AssetDataInvalid': 'Cannot find asset object in DB by using asset id [2] and SN [00426-OEM-8992662-00173] '}
+2018-05-13-10:04:17	ERROR	{'AssetDataInvalid': 'Cannot find asset object in DB by using asset id [1] and SN [00426-OEM-8992662-00173] '}
+2018-05-13-11:11:12	ERROR	{'AssetDataInvalid': 'Cannot find asset object in DB by using asset id [1] and SN [00426-OEM-8992662-00173] '}
+2018-05-13-11:11:50	ERROR	{'AssetDataInvalid': 'Cannot find asset object in DB by using asset id [0] and SN [00426-OEM-8992662-00173] '}
